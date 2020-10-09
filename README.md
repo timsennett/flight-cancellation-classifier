@@ -1,5 +1,5 @@
 
-# Module 3 Final Project
+# Flight Delays and Cancellations Classifier
 
 In this project, I've chosen to work with the [2015 Flight Delays and Cancellations](https://www.kaggle.com/usdot/flight-delays#flights.csv) dataset for the purpose of creating a binary classification model.
 
